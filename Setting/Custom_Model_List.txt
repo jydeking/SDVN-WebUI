@@ -1,0 +1,7 @@
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v10.safetensors@=JunX_AsianDreamix_v10
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v20.safetensors@=JunX_AsianDreamix_v20
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v24.safetensors@=JunX_AsianDreamix_v24
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v30.safetensors@=JunX_AsianDreamix_v30
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v40.safetensors@=JunX_AsianDreamix_v40
+https://huggingface.co/JYdeK/AsianDreamix/blob/main/JunX_AsianDreamix_v50.safetensors@=JunX_AsianDreamix_v50
+https://huggingface.co/JYdeKing/shuangzizou/resolve/main/shuangzizou_v30.safetensors@=shuangzizou_v30
